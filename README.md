@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/alphain-reference-banner.png" alt="ALPHAIN — whale sharks drifting through an aurora-lit night sky" width="100%" />
+  <img src="./assets/alphain-aurora-banner.png" alt="ALPHAIN — whale sharks drifting through an aurora-lit night sky" width="100%" />
 
   <br />
 
